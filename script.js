@@ -5,7 +5,7 @@
    var mouseX;
  var mouseY;
  alltime=0;
-  max_obj=3;
+  max_obj=7;
   points=max_obj
   destroy_obj=-max_obj
   max_x=492;
